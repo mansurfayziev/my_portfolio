@@ -9,7 +9,8 @@ const Navbar = ({ state }) => {
   return (
     <Style style={state === true ? { left: "0%" } : {}}>
       <NavLink to="/" className={"name"}>
-       <img 
+       <img style="width:30px; height:30px; border-radius:50%;"
+
       src="https://images.pexels.com/photos/20787/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
       alt="new"
       /> Mansur Fayziev
