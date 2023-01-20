@@ -29,7 +29,7 @@ const About = () => {
           </div>
           <div className="box">
             <img src={require("../../assets/about/dj.webp")} />
-            DJango
+            Django
           </div>
         </Zoom>
       </div>
