@@ -95,7 +95,7 @@ const Contact = () => {
             </div>
             <div>
               <h3>Phone Number</h3>
-              +992-92-202-03-56
+              +7 (996) 055-34-06
             </div>
             <div>
               <h3>Find me on</h3>
