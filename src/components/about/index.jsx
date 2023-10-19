@@ -40,7 +40,7 @@ const About = () => {
           <h3>Every great design begin with an even better story</h3>
           <p>
             I am Mansur. My last name is Fayziev. I'm{" "}
-            {JSON.stringify(new Date()).substring(1, 5) - 2006} years old. I am
+            {JSON.stringify(new Date()).substring(1, 5) - 2005} years old. I am
             Tajik. I can speak Russian, Uzbek, English and Tajik. My skills: Html, CSS, Js, Vue, bootstrap, vb.net, Django, Python and I Full Stack Developer.
           </p>
         </div>
