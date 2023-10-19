@@ -7,7 +7,7 @@ const Contact = () => {
   const [state, setstate] = useState({});
 
   const bot = {
-    TOKEN: "5935980987:AAFoKiPJ2QNIe3SjBKy8Uu6YjJY7Q5LLCHQ",
+    TOKEN: "6953907434:AAGnKRvu_9TElRob9HkCZeIdGU-byPCIbk8",
     chatID: "5295372766",
   };
 
